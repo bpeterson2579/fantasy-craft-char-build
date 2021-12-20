@@ -1,0 +1,14 @@
+.personal-info {
+  border: 3px solid red;
+  width: 20vw;
+  padding: 5px;
+}
+
+.personal-info-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-style {
+  padding-bottom: 10px;
+}
